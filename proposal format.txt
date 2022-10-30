@@ -1,0 +1,15 @@
+slide -5
+name - Secmart Drop
+reason - Secure and easy delivery
+technologies :
+1. Front End- Javascript/Python/Swift(UI)
+2. Back End - SQLite/PHP
+3. Hardware tech-RaspBian(3B)+Display+membrane keypad
+4.APP- IoS
+
+team- we 3
+timeline - tabular form- 
+Midterm -User login
+	-Passcode Generation/reception
+	-setting up raspbianimager
+	-getting 
