@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A5A2C5F1-0694-404B-B980-7DD9CCA65C97"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "B80964D0-21C4-4D02-81EA-8AA677AB798E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "setupUsernameLabel()"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "B80964D0-21C4-4D02-81EA-8AA677AB798E - c64bc2449e427fdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecureDrop_BasicVersion.DeliveryPinViewController.setupUsernameLabel() -&gt; ()"
+                  moduleName = "SecureDrop_BasicVersion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sumanchatla/Desktop/SecureDrop_BasicVersion/SecureDrop_BasicVersion/DeliveryPinViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
