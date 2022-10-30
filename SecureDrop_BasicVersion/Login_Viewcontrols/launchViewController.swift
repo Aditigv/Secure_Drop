@@ -17,6 +17,8 @@ class LaunchViewController: UIViewController {
         super.viewDidLoad()
         
         setUpElements()
+        
+        //addd comment
 
         // Do any additional setup after loading the view.
     }
