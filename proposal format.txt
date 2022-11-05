@@ -1,5 +1,5 @@
 slide -5
-name - Secmart Drop
+name - Secure Drop
 reason - Secure and easy delivery
 technologies :
 1. Front End- Javascript/Python/Swift(UI)
